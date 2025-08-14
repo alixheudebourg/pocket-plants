@@ -1,0 +1,29 @@
+{
+    "zone_6b": {
+      "June": [
+        {
+          "name": "Carrot",
+          "emoji": "🥕",
+          "planting": "April–June",
+          "harvest": "July–September",
+          "notes": "Keep soil moist and loosened for best growth."
+        },
+        {
+          "name": "Zucchini",
+          "emoji": "🥒",
+          "planting": "May–June",
+          "harvest": "July–August",
+          "notes": "Harvest frequently to encourage more fruit."
+        }
+      ],
+      "July": [
+        {
+          "name": "Lettuce",
+          "emoji": "🥬",
+          "planting": "March–July",
+          "harvest": "May–August",
+          "notes": "Prefers cooler temperatures; partial shade helps."
+        }
+      ]
+    }
+  }
