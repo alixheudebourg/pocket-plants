@@ -45,6 +45,9 @@ The server will run on `http://localhost:3000`
 
 ### Current Endpoints
 
+#### GET `/`
+Returns a simple HTML page with links to all available API endpoints and documentation.
+
 #### GET `/plants`
 Returns a list of available plants with basic information.
 
@@ -55,6 +58,11 @@ Returns a list of available plants with basic information.
   { "name": "Zucchini", "emoji": "🥒" }
 ]
 ```
+
+#### GET `/plants-data`
+Returns the complete plants.json database with all biome and seasonal data.
+
+**Response:** Full JSON structure from `data/plants.json`
 
 ### Planned Endpoints
 
